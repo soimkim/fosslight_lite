@@ -18,7 +18,7 @@ public final class Url {
 	public static final List<String> LITE_HUB_ORIGINS = Arrays.asList(
 			"http://localhost:3000",
 			"http://127.0.0.1:3000",
-			"http://54.180.199.102:3000"  
+			"http://13.209.249.156:3000"  
 			// TODO: add confirmed url of lite hub
 	);
 	
