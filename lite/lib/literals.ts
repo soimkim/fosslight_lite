@@ -1,7 +1,7 @@
 export const serverOrigin =
   process.env.NEXT_PUBLIC_PRODUCT_MODE === 'true'
     ? 'https://fosslight.org'
-    : 'http://localhost:8180';
+    : 'http://54.180.199.102';
 
 export const OSS_TYPES: Common.OSSTypes = {
   M: {
